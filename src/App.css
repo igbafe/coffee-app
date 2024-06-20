@@ -1,0 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.egg-shape {
+    clip-path: ellipse(50% 80% at 50% 70%);
+}
